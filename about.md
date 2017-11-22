@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a citizen of the Web, based in Europe. As Crafter, Maker, Brewer, Gamer and Standard Nerd, I try to let my creativity flow as far as the (completely unrelated) day-job permits. This Blog, along with any Git-Repositories, is meant to document my struggles and results. An occasional opinion or rant might come its way, too ;-)
 
-### More Information
+My main interests are:
+* Everything related to the RasPi
+* Gear for outdoor- bushcraft- an survival activities
+* Brewing and related crafts
+* Cosplay (since recently)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### IRL
+Trained nurse, 83% through med-school, voluntering with the local FD and EMS.
+Flaming advocate of a united Europe, next-door leftie.
