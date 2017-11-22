@@ -13,4 +13,4 @@ My main interests are:
 * Cosplay (since recently)
 
 ### IRL
-Trained nurse, 83% through med-school, voluntering with the local FD and EMS.
+Trained nurse, 83% through med-school, volunteering with the local FD and EMS.
