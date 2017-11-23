@@ -110,6 +110,10 @@ img {
   max-width: 100%;
 }
 
+table, td, th, tr {
+  font-size: 12px
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
