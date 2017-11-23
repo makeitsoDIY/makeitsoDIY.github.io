@@ -36,4 +36,4 @@ The RaspberryPi and its camera-modules easily cover the five first (and central!
 let the RasPi3 appear to be the best solution, despite some promising [results](https://hackaday.com/2017/03/26/turn-that-pi-zero-into-a-streaming-camera-step-by-step/) achieved with the RasPi zero.
 
 The electrical viewfinder could be created by connecting any HDMI-capable screen. GPIO-based solutions, like in [this](https://www.adafruit.com/product/2298) example, will leave the HDMI-port free to use, while effectively blocking only a small amount of GPIO-pins. While a resolution of 320x240 px is certainly not
-enough to set a correct focus for footage recorded in 1920x1080 px, it would suffice as a viewfinder in situations where apperture and focal length 
+enough to set a correct focus for footage recorded in 1920x1080 px, it would suffice as a viewfinder in situations where the camera is focused at infinity
