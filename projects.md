@@ -4,9 +4,25 @@ title: Projects
 permalink: /projects/
 ---
 
-Currently none to show off, stay tuned!
+## Active projects
+### PiCa_SU - the PiCam Streaming Unit
+- **Description:** An integrated solution for streaming video and still images from my workbench to OBS.
+- **Status:** active: concept & design
+- **Due date:** when ready
+- **Project-Page:** n/a
+- **External documentation:** n/a
 
-| Title	        | Intended use  | Status        | Due date        | Project-Page        | External documentation |
-| ------------- | ------------- | ------------- | --------------- | ------------------- | ---------------------- |
-| PiCa_SU - the PiCam Streaming Unit  | streaming video and still images from my workbench to OBS | active: concept & design | when ready (none) | % | % |
-| RubberPi  | A portable access-point for untrusted WiFi, providing VPN / TOR / NAT | active: concept & design | 34c3 | % | % |
+### RubberPi
+- **Description:** A portable access-point for untrusted WiFi, providing VPN / TOR / NAT. Join any party, but always use protection...
+- **Status:** active: concept & design
+- **Due date:** when ready, aiming to field-test during 34c3.
+- **Project-Page:** n/a
+- **External documentation:** n/a
+
+## Completed projects
+
+None to show off yet, stay tuned!
+
+## Wishlist
+
+t.b.c
