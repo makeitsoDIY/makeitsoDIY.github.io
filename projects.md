@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Active projects
-### PiCa_SU - the PiCam Streaming Unit
+### PiCaSU - the PiCam Streaming Unit
 An integrated solution for streaming video and still images from my workbench to OBS.  
 **Status:** active: concept & design  
 **Due date:** when ready  
