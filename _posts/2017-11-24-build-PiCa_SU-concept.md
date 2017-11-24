@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The PiCa_SU - A RasPi-based IP-cam for streaming and more - from wishlist to concept
+title: The PiCa_SU - a RasPi-based IP-cam for streaming and more
 ---
 
 ## Introduction
