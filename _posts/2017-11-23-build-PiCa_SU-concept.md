@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Build: PiCa_SU - A RasPi-based IP-cam for streaming and more - from wishlist to concept
-published: false
 ---
 ## Introduction
 I would very much like to document my projects in still images and video. Having live-footage to stream via OBS would make me able to engage in more social making, i.e. via [twitch](https://twitch.tv/creative).]
