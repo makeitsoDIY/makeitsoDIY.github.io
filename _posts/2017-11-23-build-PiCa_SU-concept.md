@@ -36,4 +36,29 @@ The RaspberryPi and its camera-modules easily cover the five first (and central!
 let the RasPi3 appear to be the best solution, despite some promising [results](https://hackaday.com/2017/03/26/turn-that-pi-zero-into-a-streaming-camera-step-by-step/) achieved with the RasPi zero.
 
 The electrical viewfinder could be created by connecting any HDMI-capable screen. GPIO-based solutions, like in [this](https://www.adafruit.com/product/2298) example, will leave the HDMI-port free to use, while effectively blocking only a small amount of GPIO-pins. While a resolution of 320x240 px is certainly not
-enough to set a correct focus for footage recorded in 1920x1080 px, it would suffice as a viewfinder in situations where the camera is focused at infinity
+enough to set a correct focus for footage recorded in 1920x1080 px, it would suffice as a viewfinder in situations where the focus is set to infinity and therefore will not need to be adjusted. Besides, because of the nature of a streaming cam, any device with a 1080px-display and a connection to the network can be used
+to set the focus, if necessary. Since this kind of viewfinder is only requiered when adjusting the view, the TFT could double as a status-display.
+
+For reasons of compatibility and ease, I want to integrate as many pre-made solutions from photo/video-sector as possible. [This](https://www.amazon.de/dp/B014F6G2TM/ref=cm_sw_r_tw_dp_x_m6agAbJHCDVN2) flexible arm seems like a good solution to center the mounting system around.
+
+Now for the central part, the camera itself, decisions are tricky: While the the original v2-camera had some issues regarding its [focus](https://www.reddit.com/r/raspberry_pi/comments/6hr5qn/fixing_the_blurry_focus_on_some_raspberry_pi/), the sensor looks decent and I want a solution of equal or better specs. As far as lenses go, people have achieved interesting [results](https://www.instructables.com/id/The-SnapPiCam-A-Raspberry-Pi-Camera/) with magnetic smartphone-accesoirs like [these](https://www.modmypi.com/raspberry-pi/camera/camera-lenses
+).Changing lenses constantly and thereby exposing the sensor or lens-mount to the dusty environment seems less than ideal, though. Recently however, inofficial camera-modules are being released, that carry C- or M12-mounts as are used in CCTV-applications, allowing for a wide range of zoom-lenses to be used.
+[This](http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/ ) model by Arducam features the very same sensor that is used in the v2.1-original while providing a CS-mount. My weapon of choice...
+http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/ 
+
+As for the case, lens-mount and lighting, I will have to come up with my own design - at another time...
+
+For now, the tasks ahead are:
+ - [ ] obtain the first and central batch of components:
+  - [ ] RasPi3
+  - [ ] Arducam 8MP module with CS-mount
+  - [ ] piTFT+ display
+ - [ ] set up hard- and software to demonstrate the working concept
+ - [ ] obtain remaining components
+ - [ ] design control-panel
+ - [ ] design pedals
+ - [ ] design enclosure(s)
+ - [ ] build the thing
+ - [ ] bask in video-awesomeness
+
+This is going to take a while. Off we go!
