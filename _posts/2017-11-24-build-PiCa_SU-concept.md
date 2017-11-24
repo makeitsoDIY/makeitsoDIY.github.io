@@ -4,7 +4,7 @@ title: The PiCa_SU - a RasPi-based IP-cam for streaming and more
 ---
 
 ## Introduction
-I would very much like to document my projects in still images and video. Having live-footage to stream via OBS would make me able to engage in more social making, i.e. via [twitch](https://twitch.tv/creative).]
+I would very much like to document my projects in still images and video. Having live-footage to stream via OBS would make me able to engage in more social making, i.e. via [twitch](https://twitch.tv/creative).
 The main purpose of a suitable camera is to capture my workspace in an overhead view. However, I would like the opportunity to hardware-zoom to a detail or to change the angle. An electric viewfinder would aid a lot with achieving this on-the-fly.
 My current housing calls for a wireless solution, but I want the device to support wired comnication, for the future.
 Since streaming live is one central use-case of the cam, I would like to control the camera without leaving the workbench and perhaps even hands-free. Lighting is poor in my workspace but essential for quality images. The cam needs a light-source, too.
@@ -49,16 +49,16 @@ http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/
 As for the case, lens-mount and lighting, I will have to come up with my own design - at another time...
 
 For now, the tasks ahead are:
-- [] obtain the first and central batch of components:
-  - [ ] RasPi3
-  - [ ] Arducam 8MP module with CS-mount
-  - [ ] piTFT+ display
-- [ ] set up hard- and software to demonstrate the working concept
-- [ ] obtain remaining components
-- [ ] design control-panel
-- [ ] design pedals
-- [ ] design enclosure(s)
-- [ ] build the thing
-- [ ] bask in video-awesomeness
+- obtain the first and central batch of components:
+  - RasPi3
+  - Arducam 8MP module with CS-mount
+  - piTFT+ display
+- set up hard- and software to demonstrate the working concept
+- obtain remaining components
+- design control-panel
+- design pedals
+- design enclosure(s)
+- build the thing
+- bask in video-awesomeness
 
 This is going to take a while. Off we go!
