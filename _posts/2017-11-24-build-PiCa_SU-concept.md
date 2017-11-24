@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build: PiCa_SU - A RasPi-based IP-cam for streaming and more - from wishlist to concept
+title: The PiCa_SU - A RasPi-based IP-cam for streaming and more - from wishlist to concept
 ---
 
 ## Introduction
@@ -49,7 +49,7 @@ http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/
 As for the case, lens-mount and lighting, I will have to come up with my own design - at another time...
 
 For now, the tasks ahead are:
-- [ ] obtain the first and central batch of components:
+- [] obtain the first and central batch of components:
   - [ ] RasPi3
   - [ ] Arducam 8MP module with CS-mount
   - [ ] piTFT+ display
