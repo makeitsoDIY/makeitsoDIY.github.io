@@ -48,16 +48,16 @@ http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/
 As for the case, lens-mount and lighting, I will have to come up with my own design - at another time...
 
 For now, the tasks ahead are:
- - [ ] obtain the first and central batch of components:
+- [ ] obtain the first and central batch of components:
   - [ ] RasPi3
   - [ ] Arducam 8MP module with CS-mount
   - [ ] piTFT+ display
- - [ ] set up hard- and software to demonstrate the working concept
- - [ ] obtain remaining components
- - [ ] design control-panel
- - [ ] design pedals
- - [ ] design enclosure(s)
- - [ ] build the thing
- - [ ] bask in video-awesomeness
+- [ ] set up hard- and software to demonstrate the working concept
+- [ ] obtain remaining components
+- [ ] design control-panel
+- [ ] design pedals
+- [ ] design enclosure(s)
+- [ ] build the thing
+- [ ] bask in video-awesomeness
 
 This is going to take a while. Off we go!
