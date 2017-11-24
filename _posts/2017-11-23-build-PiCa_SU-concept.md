@@ -2,6 +2,7 @@
 layout: post
 title: Build: PiCa_SU - A RasPi-based IP-cam for streaming and more - from wishlist to concept
 ---
+
 ## Introduction
 I would very much like to document my projects in still images and video. Having live-footage to stream via OBS would make me able to engage in more social making, i.e. via [twitch](https://twitch.tv/creative).]
 The main purpose of a suitable camera is to capture my workspace in an overhead view. However, I would like the opportunity to hardware-zoom to a detail or to change the angle. An electric viewfinder would aid a lot with achieving this on-the-fly.
