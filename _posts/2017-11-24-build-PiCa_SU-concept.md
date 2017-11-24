@@ -44,7 +44,6 @@ For reasons of compatibility and ease, I want to integrate as many pre-made solu
 Now for the central part, the camera itself, decisions are tricky: While the the original v2-camera had some issues regarding its [focus](https://www.reddit.com/r/raspberry_pi/comments/6hr5qn/fixing_the_blurry_focus_on_some_raspberry_pi/), the sensor looks decent and I want a solution of equal or better specs. As far as lenses go, people have achieved interesting [results](https://www.instructables.com/id/The-SnapPiCam-A-Raspberry-Pi-Camera/) with magnetic smartphone-accesoirs like [these](https://www.modmypi.com/raspberry-pi/camera/camera-lenses
 ).Changing lenses constantly and thereby exposing the sensor or lens-mount to the dusty environment seems less than ideal, though. Recently however, inofficial camera-modules are being released, that carry C- or M12-mounts as are used in CCTV-applications, allowing for a wide range of zoom-lenses to be used.
 [This](http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/ ) model by Arducam features the very same sensor that is used in the v2.1-original while providing a CS-mount. My weapon of choice...
-http://www.arducam.com/8mp-sony-imx219-camera-raspberry-pi/ 
 
 As for the case, lens-mount and lighting, I will have to come up with my own design - at another time...
 
