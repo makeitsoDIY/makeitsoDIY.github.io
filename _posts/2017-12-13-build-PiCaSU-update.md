@@ -17,7 +17,7 @@ A second change, though of a more preliminary character, happend regarding the c
 ## Whats ahead?
 I will use my spare time to get the coding done. Since I have a major exam coming up in spring, I will need to focus my attention on rather un-techie matters, though. My next fix of nerdstuff, electric radiation and mate-drinks will be the [34th Chaos Communication Congress - 34C3](https://events.ccc.de/congress/2017/wiki/index.php/Main_Page), which I was looking forward to since last december.
 
-##TL;DR
+## TL;DR
 + Re-Learning how to code is giving me trouble
 + The project turns out to be more complex than expected
 + Remote development feels uncomfortable
