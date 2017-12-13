@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The PiCaSU - update on the build
+title: The PiCaSU - updates on the build
 ---
 
 ## Good morning, reality! Thanks! Fu** you, too!
