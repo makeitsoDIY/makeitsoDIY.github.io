@@ -24,3 +24,5 @@ My laptop is dual-booting pleasure and necessity a.k.a. Linux and Windows. The l
 
 ### A camping-trip to urban Nerdistan:
 As suggested by the title, the remaining space in my rucksack will be occupied by an inflatable sofa/chair, water-bottles (reusable, of course), a mug/cup and cables for power and networking. These will be joined by my lockpicks, SDR-reciever and other tools. An interesting mix of things, one can conclude. Explaining the contents of my luggage to anyone, though not likely necessary, would be an awkwardly funny endeavour...
+
+Reports will follow!
