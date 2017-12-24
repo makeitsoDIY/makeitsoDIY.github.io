@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merry Christmas \(or merry whateveryoulike\[tm\]\)
+title: Merry Christmas (or merry whateveryoulike[tm])
 ---
 
 This is where I wish all of you a merry christmas! Whether you celebrate Jesus's birthday, a reason to stay away from work or an excuse to buy overpriced toys 'n' gadgets (economy thanks you for your service) - enjoy the shit out of it!
